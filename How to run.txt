@@ -1,0 +1,25 @@
+# Create a new environment
+Step 1 : open your anaconda prompt
+
+Step 2 : Create a new environment
+                command : conda create -n facerecognition python==3.6.9
+Step 3 : activate your environment
+                conda activate facerecognition
+Step 4 : Install requirements.txt in the newly created environment
+            a). Navigate to your folder location on anaconda prompt/teminal
+                    for me ( /Projects/FaceRecogAcademy )
+
+            b). run in the terminal pip install -r requirements.txt
+
+                    if run:
+                        Your are good to go
+                    elif No:
+                        Please check the steps again you must have missed something
+
+Step 5 : Installation and setup is done:
+         a).  cd src
+         b). python clientApp.py
+
+         Yor are good to go ........................................
+
+
